@@ -55,6 +55,7 @@ python3 torrent_downloader.py "magnet:?xt=..." -o ./movies
 Options :
 
 --help       Show help message
+
 --output -o  Set download directory (default: current)
 
 ⚠️ Important Notes / Notes Importantes
