@@ -1,10 +1,8 @@
 # Python-torrent-downloader
 A python script for downloading torrents
 
-# Python Torrent Downloader CLI  
-# Téléchargeur Torrent Python en Ligne de Commande
-
-🇬🇧 English | [🇫🇷 Français]
+Python Torrent Downloader CLI  
+Téléchargeur Torrent Python en Ligne de Commande
 
 ---
 
