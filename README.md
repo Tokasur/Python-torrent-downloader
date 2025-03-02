@@ -52,11 +52,13 @@ python3 torrent_downloader.py "magnet:?xt=..." -o ./movies
 
 "" requis for magnet or torrent file with space
 
-Options :
+# Options
 
 --help       Show help message
 
 --output -o  Set download directory (default: current)
+
+# Note
 
 ⚠️ Important Notes / Notes Importantes
 
