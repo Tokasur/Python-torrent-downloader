@@ -29,7 +29,9 @@ A python script for downloading torrents
 ---
 ### Prerequisites / Prérequis
 python3 and python3-libtorrent
+
 For debian use sudo apt install python3 python3-libtorrent
+
 git git-core to use git clone
 
 ## ⚙️ Installation
